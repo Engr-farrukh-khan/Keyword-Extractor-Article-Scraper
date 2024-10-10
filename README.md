@@ -38,7 +38,7 @@ Input the article URL and get:
     ```
 
 ## Screenshots
-![App Screenshot](C:\Users\farru\OneDrive\Desktop\key.png)
+![App Screenshot](key.png)
 
 ## Contribute
 Feel free to fork the repository, submit pull requests, and raise issues. I welcome any feedback or suggestions to improve the project.
